@@ -8,7 +8,7 @@ public class Operadores {
         double peso = 68.5;
         char sexo = 'M';
         boolean doadorOrgao = false;
-        Date dataNascimento = new Date();
+        //Date dataNascimento = new Date();
 
         //classe Operador aritmetico
         double soma = 10.5 + 15.7;
